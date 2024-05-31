@@ -20,7 +20,7 @@ Este projeto é uma simulação das funcionalidades básicas do iPhone, conforme
 - `atualizarPagina()`: Atualiza a página atual.
   
 ## Clone o repositório
-git clone https://github.com/seu-usuario/iphone.git
+git clone https://github.com/hyppoliteaurelus/IPHONE-DESAFIO-DIO.git
 
 ## Diagrama UML
 
